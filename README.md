@@ -12,7 +12,7 @@ This project utelizes an ORM to simulate a business's inventory system.
 ## Installation
 initialize the database the mysql, then run npm run seed, then npm start
 ## Usage
-NA
+Walkthrough Video link: https://youtu.be/wVqsBM4gGLI
 ## Contribution Guidelines
 NA
 ## Test Instructions
